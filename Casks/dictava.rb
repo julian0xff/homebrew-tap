@@ -1,6 +1,6 @@
 cask "dictava" do
-  version "0.7.0"
-  sha256 "28d5c4858194ee7a54e22b26ea403564dedf34d06acada3ceb8a55124b782304"
+  version "0.8.0"
+  sha256 "630b00a6d3b0cdc78515d044718cd99508c73a24f472adb467c13fa56d01c4cb"
 
   url "https://github.com/julian0xff/Dictava/releases/download/v#{version}/Dictava-#{version}.dmg"
   name "Dictava"
